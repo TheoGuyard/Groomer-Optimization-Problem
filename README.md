@@ -12,7 +12,7 @@ Work done during a third year's internship at INSA Rennes in the <strong>Mathema
 
 As CPLEX is used, you need to have it installed on the computer. The version `12.9` was used during the project. The code will not be maintained so it's possible that due to huge changes during `Julia`'s updates, the code crashes.
 
-All the documentation about the problem, methods used and implementation details are presented in `rapport.pdf`.
+**All the documentation about the problem, methods used and implementation details are presented in `rapport.pdf`.**
 
 ## Datasets
 Datasets are separted in two groups : those with a unique depot and those with multiples depots. In each groups, there are different datasets availables. The structure of datasets is copied from the structure of [these](https://www.sciencedirect.com/science/article/pii/S2352340916304358 "Take a look !") datasets.
