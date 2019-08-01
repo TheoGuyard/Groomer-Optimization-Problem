@@ -1,0 +1,132 @@
+NAME : Lpr-IF-b-02
+NODES : 53
+REQ_EDGES : 9
+NOREQ_EDGES : 0
+REQ_ARCS : 92
+NOREQ_ARCS : 16
+CAPACITY : 10000
+DUMPING_COST : 300
+MAX_DURATION : 28800
+DEPOT : 1
+DUMPING_SITES : 26,52
+LIST_REQ_EDGES :
+start_node 9,end_node 18,serv_cost 119,trav_cost 21,demand 98
+start_node 10,end_node 11,serv_cost 829,trav_cost 39,demand 790
+start_node 14,end_node 15,serv_cost 554,trav_cost 15,demand 539
+start_node 18,end_node 32,serv_cost 228,trav_cost 35,demand 193
+start_node 20,end_node 21,serv_cost 230,trav_cost 15,demand 215
+start_node 24,end_node 35,serv_cost 460,trav_cost 39,demand 421
+start_node 31,end_node 40,serv_cost 333,trav_cost 40,demand 293
+start_node 45,end_node 53,serv_cost 151,trav_cost 17,demand 134
+start_node 49,end_node 50,serv_cost 339,trav_cost 21,demand 318
+LIST_NOREQ_EDGES :
+LIST_REQ_ARCS :
+start_node 28,end_node 2,serv_cost 156,trav_cost 36,demand 120
+start_node 28,end_node 10,serv_cost 248,trav_cost 46,demand 202
+start_node 2,end_node 28,serv_cost 175,trav_cost 36,demand 139
+start_node 2,end_node 11,serv_cost 200,trav_cost 41,demand 159
+start_node 3,end_node 2,serv_cost 79,trav_cost 26,demand 53
+start_node 3,end_node 4,serv_cost 363,trav_cost 14,demand 349
+start_node 3,end_node 12,serv_cost 236,trav_cost 35,demand 201
+start_node 4,end_node 3,serv_cost 90,trav_cost 14,demand 76
+start_node 4,end_node 5,serv_cost 163,trav_cost 38,demand 125
+start_node 5,end_node 4,serv_cost 325,trav_cost 38,demand 287
+start_node 5,end_node 6,serv_cost 250,trav_cost 38,demand 212
+start_node 7,end_node 9,serv_cost 410,trav_cost 16,demand 394
+start_node 8,end_node 6,serv_cost 113,trav_cost 18,demand 95
+start_node 9,end_node 7,serv_cost 346,trav_cost 16,demand 330
+start_node 9,end_node 8,serv_cost 302,trav_cost 40,demand 262
+start_node 10,end_node 24,serv_cost 420,trav_cost 36,demand 384
+start_node 11,end_node 24,serv_cost 109,trav_cost 51,demand 58
+start_node 12,end_node 3,serv_cost 106,trav_cost 35,demand 71
+start_node 12,end_node 11,serv_cost 284,trav_cost 21,demand 263
+start_node 13,end_node 4,serv_cost 66,trav_cost 35,demand 31
+start_node 13,end_node 12,serv_cost 92,trav_cost 17,demand 75
+start_node 13,end_node 20,serv_cost 422,trav_cost 23,demand 399
+start_node 13,end_node 21,serv_cost 318,trav_cost 20,demand 298
+start_node 13,end_node 22,serv_cost 125,trav_cost 29,demand 96
+start_node 14,end_node 13,serv_cost 122,trav_cost 22,demand 100
+start_node 15,end_node 5,serv_cost 172,trav_cost 42,demand 130
+start_node 15,end_node 16,serv_cost 136,trav_cost 23,demand 113
+start_node 16,end_node 30,serv_cost 181,trav_cost 39,demand 142
+start_node 17,end_node 8,serv_cost 76,trav_cost 21,demand 55
+start_node 17,end_node 18,serv_cost 231,trav_cost 40,demand 191
+start_node 19,end_node 20,serv_cost 382,trav_cost 17,demand 365
+start_node 19,end_node 25,serv_cost 417,trav_cost 25,demand 392
+start_node 20,end_node 12,serv_cost 116,trav_cost 18,demand 98
+start_node 20,end_node 25,serv_cost 191,trav_cost 33,demand 158
+start_node 21,end_node 22,serv_cost 385,trav_cost 20,demand 365
+start_node 21,end_node 27,serv_cost 94,trav_cost 18,demand 76
+start_node 22,end_node 14,serv_cost 248,trav_cost 21,demand 227
+start_node 22,end_node 23,serv_cost 208,trav_cost 22,demand 186
+start_node 22,end_node 29,serv_cost 191,trav_cost 29,demand 162
+start_node 23,end_node 15,serv_cost 411,trav_cost 16,demand 395
+start_node 23,end_node 29,serv_cost 288,trav_cost 21,demand 267
+start_node 24,end_node 25,serv_cost 122,trav_cost 36,demand 86
+start_node 25,end_node 26,serv_cost 264,trav_cost 17,demand 247
+start_node 26,end_node 20,serv_cost 139,trav_cost 19,demand 120
+start_node 27,end_node 26,serv_cost 113,trav_cost 19,demand 94
+start_node 27,end_node 1,serv_cost 363,trav_cost 20,demand 343
+start_node 27,end_node 34,serv_cost 162,trav_cost 14,demand 148
+start_node 1,end_node 22,serv_cost 247,trav_cost 15,demand 232
+start_node 1,end_node 27,serv_cost 311,trav_cost 20,demand 291
+start_node 29,end_node 1,serv_cost 228,trav_cost 19,demand 209
+start_node 29,end_node 39,serv_cost 213,trav_cost 33,demand 180
+start_node 30,end_node 29,serv_cost 335,trav_cost 20,demand 315
+start_node 31,end_node 30,serv_cost 352,trav_cost 21,demand 331
+start_node 32,end_node 42,serv_cost 430,trav_cost 40,demand 390
+start_node 33,end_node 25,serv_cost 413,trav_cost 15,demand 398
+start_node 34,end_node 27,serv_cost 157,trav_cost 14,demand 143
+start_node 34,end_node 33,serv_cost 412,trav_cost 36,demand 376
+start_node 35,end_node 36,serv_cost 270,trav_cost 40,demand 230
+start_node 35,end_node 46,serv_cost 189,trav_cost 39,demand 150
+start_node 36,end_node 33,serv_cost 102,trav_cost 21,demand 81
+start_node 36,end_node 47,serv_cost 373,trav_cost 35,demand 338
+start_node 37,end_node 34,serv_cost 340,trav_cost 21,demand 319
+start_node 37,end_node 38,serv_cost 206,trav_cost 19,demand 187
+start_node 38,end_node 37,serv_cost 312,trav_cost 19,demand 293
+start_node 38,end_node 39,serv_cost 199,trav_cost 19,demand 180
+start_node 39,end_node 29,serv_cost 296,trav_cost 33,demand 263
+start_node 39,end_node 40,serv_cost 219,trav_cost 38,demand 181
+start_node 40,end_node 41,serv_cost 337,trav_cost 17,demand 320
+start_node 41,end_node 42,serv_cost 334,trav_cost 22,demand 312
+start_node 41,end_node 44,serv_cost 140,trav_cost 19,demand 121
+start_node 42,end_node 32,serv_cost 387,trav_cost 40,demand 347
+start_node 42,end_node 41,serv_cost 396,trav_cost 22,demand 374
+start_node 42,end_node 45,serv_cost 385,trav_cost 24,demand 361
+start_node 43,end_node 40,serv_cost 64,trav_cost 25,demand 39
+start_node 43,end_node 51,serv_cost 264,trav_cost 14,demand 250
+start_node 44,end_node 43,serv_cost 188,trav_cost 16,demand 172
+start_node 45,end_node 42,serv_cost 321,trav_cost 24,demand 297
+start_node 45,end_node 44,serv_cost 395,trav_cost 19,demand 376
+start_node 46,end_node 47,serv_cost 80,trav_cost 38,demand 42
+start_node 47,end_node 46,serv_cost 276,trav_cost 38,demand 238
+start_node 47,end_node 48,serv_cost 424,trav_cost 36,demand 388
+start_node 48,end_node 37,serv_cost 430,trav_cost 43,demand 387
+start_node 48,end_node 47,serv_cost 53,trav_cost 36,demand 17
+start_node 49,end_node 38,serv_cost 361,trav_cost 45,demand 316
+start_node 49,end_node 48,serv_cost 198,trav_cost 21,demand 177
+start_node 50,end_node 39,serv_cost 139,trav_cost 41,demand 98
+start_node 50,end_node 51,serv_cost 266,trav_cost 36,demand 230
+start_node 51,end_node 50,serv_cost 410,trav_cost 36,demand 374
+start_node 51,end_node 52,serv_cost 68,trav_cost 20,demand 48
+start_node 52,end_node 44,serv_cost 378,trav_cost 16,demand 362
+start_node 52,end_node 53,serv_cost 95,trav_cost 21,demand 74
+start_node 53,end_node 52,serv_cost 386,trav_cost 21,demand 365
+LIST_NOREQ_ARCS :
+start_node 2,end_node 3,serv_cost 0,trav_cost 26,demand 0
+start_node 4,end_node 13,serv_cost 0,trav_cost 35,demand 0
+start_node 6,end_node 5,serv_cost 0,trav_cost 38,demand 0
+start_node 6,end_node 7,serv_cost 0,trav_cost 41,demand 0
+start_node 7,end_node 6,serv_cost 0,trav_cost 41,demand 0
+start_node 10,end_node 28,serv_cost 0,trav_cost 46,demand 0
+start_node 11,end_node 19,serv_cost 0,trav_cost 19,demand 0
+start_node 16,end_node 17,serv_cost 0,trav_cost 16,demand 0
+start_node 24,end_node 10,serv_cost 0,trav_cost 36,demand 0
+start_node 31,end_node 17,serv_cost 0,trav_cost 31,demand 0
+start_node 32,end_node 31,serv_cost 0,trav_cost 39,demand 0
+start_node 34,end_node 37,serv_cost 0,trav_cost 21,demand 0
+start_node 36,end_node 37,serv_cost 0,trav_cost 40,demand 0
+start_node 46,end_node 35,serv_cost 0,trav_cost 39,demand 0
+start_node 48,end_node 49,serv_cost 0,trav_cost 21,demand 0
+start_node 52,end_node 51,serv_cost 0,trav_cost 20,demand 0

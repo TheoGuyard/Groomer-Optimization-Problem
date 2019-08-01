@@ -1,0 +1,50 @@
+NAME : greoliere-1
+NODES : 38
+REQ_EDGES : 19
+NOREQ_EDGES : 11
+REQ_ARCS : 3
+NOREQ_ARCS : 2
+CAPACITY : 20
+DUMPING_COST : 0
+MAX_DURATION : 0
+DEPOT : 1
+DUMPING_SITES : 1
+LIST_REQ_EDGES :
+start_node 1,end_node 2,serv_cost 5,trav_cost 1,demand 1
+start_node 1,end_node 3,serv_cost 10,trav_cost 3,demand 1
+start_node 3,end_node 4,serv_cost 2,trav_cost 1,demand 1
+start_node 1,end_node 2,serv_cost 5,trav_cost 1,demand 1
+start_node 4,end_node 8,serv_cost 2,trav_cost 1,demand 1
+start_node 8,end_node 7,serv_cost 10,trav_cost 3,demand 1
+start_node 6,end_node 7,serv_cost 5,trav_cost 1,demand 1
+start_node 6,end_node 10,serv_cost 5,trav_cost 1,demand 1
+start_node 7,end_node 9,serv_cost 2,trav_cost 1,demand 1
+start_node 9,end_node 10,serv_cost 2,trav_cost 1,demand 1
+start_node 12,end_node 11,serv_cost 10,trav_cost 5,demand 1
+start_node 12,end_node 14,serv_cost 5,trav_cost 3,demand 1
+start_node 14,end_node 15,serv_cost 7,trav_cost 5,demand 1
+start_node 16,end_node 15,serv_cost 20,trav_cost 10,demand 1
+start_node 16,end_node 14,serv_cost 5,trav_cost 3,demand 1
+start_node 17,end_node 18,serv_cost 3,trav_cost 1,demand 1
+start_node 17,end_node 20,serv_cost 5,trav_cost 2,demand 1
+start_node 20,end_node 8,serv_cost 3,trav_cost 1,demand 1
+start_node 20,end_node 19,serv_cost 2,trav_cost 1,demand 1
+LIST_NOREQ_EDGES :
+start_node 1,end_node 5,serv_cost 5,trav_cost 3,demand 0
+start_node 5,end_node 6,serv_cost 5,trav_cost 3,demand 0
+start_node 5,end_node 4,serv_cost 4,trav_cost 2,demand 0
+start_node 19,end_node 18,serv_cost 3,trav_cost 1,demand 0
+start_node 1,end_node 2,serv_cost 5,trav_cost 1,demand 0
+start_node 19,end_node 21,serv_cost 10,trav_cost 5,demand 0
+start_node 18,end_node 21,serv_cost 10,trav_cost 5,demand 0
+start_node 16,end_node 18,serv_cost 5,trav_cost 3,demand 0
+start_node 16,end_node 17,serv_cost 5,trav_cost 2,demand 0
+start_node 10,end_node 11,serv_cost 2,trav_cost 1,demand 0
+start_node 11,end_node 15,serv_cost 7,trav_cost 5,demand 0
+LIST_REQ_ARCS :
+start_node 13,end_node 9,serv_cost 10,trav_cost 5,demand 1
+start_node 12,end_node 13,serv_cost 7,trav_cost 3,demand 1
+start_node 12,end_node 11,serv_cost 10,trav_cost 5,demand 1
+LIST_NOREQ_ARCS :
+start_node 16,end_node 12,serv_cost 7,trav_cost 3,demand 0
+start_node 17,end_node 13,serv_cost 10,trav_cost 5,demand 0

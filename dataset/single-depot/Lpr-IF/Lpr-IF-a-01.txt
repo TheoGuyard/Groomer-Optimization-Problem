@@ -1,0 +1,109 @@
+NAME : Lpr-IF-a-01
+NODES : 28
+REQ_EDGES : 0
+NOREQ_EDGES : 0
+REQ_ARCS : 52
+NOREQ_ARCS : 42
+CAPACITY : 10000
+DUMPING_COST : 300
+MAX_DURATION : 28800
+DEPOT : 1
+DUMPING_SITES : 14,28
+LIST_REQ_EDGES :
+LIST_NOREQ_EDGES :
+LIST_REQ_ARCS :
+start_node 2,end_node 14,serv_cost 274,trav_cost 34,demand 240
+start_node 2,end_node 3,serv_cost 156,trav_cost 19,demand 137
+start_node 2,end_node 8,serv_cost 299,trav_cost 20,demand 279
+start_node 4,end_node 3,serv_cost 284,trav_cost 20,demand 264
+start_node 4,end_node 5,serv_cost 287,trav_cost 22,demand 265
+start_node 4,end_node 9,serv_cost 346,trav_cost 21,demand 325
+start_node 5,end_node 4,serv_cost 50,trav_cost 22,demand 28
+start_node 6,end_node 11,serv_cost 304,trav_cost 19,demand 285
+start_node 7,end_node 14,serv_cost 172,trav_cost 22,demand 150
+start_node 7,end_node 8,serv_cost 124,trav_cost 42,demand 82
+start_node 7,end_node 12,serv_cost 64,trav_cost 17,demand 47
+start_node 8,end_node 13,serv_cost 210,trav_cost 23,demand 187
+start_node 9,end_node 4,serv_cost 122,trav_cost 21,demand 101
+start_node 9,end_node 10,serv_cost 143,trav_cost 21,demand 122
+start_node 9,end_node 15,serv_cost 171,trav_cost 18,demand 153
+start_node 10,end_node 5,serv_cost 106,trav_cost 20,demand 86
+start_node 11,end_node 10,serv_cost 323,trav_cost 18,demand 305
+start_node 11,end_node 17,serv_cost 84,trav_cost 18,demand 66
+start_node 12,end_node 7,serv_cost 214,trav_cost 17,demand 197
+start_node 12,end_node 13,serv_cost 103,trav_cost 39,demand 64
+start_node 12,end_node 18,serv_cost 174,trav_cost 22,demand 152
+start_node 13,end_node 12,serv_cost 280,trav_cost 39,demand 241
+start_node 1,end_node 3,serv_cost 246,trav_cost 41,demand 205
+start_node 1,end_node 13,serv_cost 325,trav_cost 19,demand 306
+start_node 15,end_node 21,serv_cost 319,trav_cost 18,demand 301
+start_node 16,end_node 10,serv_cost 109,trav_cost 21,demand 88
+start_node 16,end_node 15,serv_cost 400,trav_cost 21,demand 379
+start_node 16,end_node 17,serv_cost 391,trav_cost 19,demand 372
+start_node 17,end_node 11,serv_cost 395,trav_cost 18,demand 377
+start_node 17,end_node 16,serv_cost 418,trav_cost 19,demand 399
+start_node 17,end_node 23,serv_cost 405,trav_cost 15,demand 390
+start_node 18,end_node 19,serv_cost 383,trav_cost 35,demand 348
+start_node 18,end_node 24,serv_cost 259,trav_cost 21,demand 238
+start_node 19,end_node 13,serv_cost 234,trav_cost 18,demand 216
+start_node 19,end_node 18,serv_cost 410,trav_cost 35,demand 375
+start_node 19,end_node 20,serv_cost 45,trav_cost 19,demand 26
+start_node 19,end_node 25,serv_cost 50,trav_cost 18,demand 32
+start_node 20,end_node 1,serv_cost 221,trav_cost 19,demand 202
+start_node 20,end_node 21,serv_cost 332,trav_cost 19,demand 313
+start_node 20,end_node 26,serv_cost 153,trav_cost 14,demand 139
+start_node 21,end_node 20,serv_cost 286,trav_cost 19,demand 267
+start_node 21,end_node 27,serv_cost 381,trav_cost 17,demand 364
+start_node 22,end_node 21,serv_cost 31,trav_cost 20,demand 11
+start_node 22,end_node 23,serv_cost 168,trav_cost 21,demand 147
+start_node 22,end_node 27,serv_cost 124,trav_cost 26,demand 98
+start_node 24,end_node 25,serv_cost 435,trav_cost 41,demand 394
+start_node 25,end_node 24,serv_cost 327,trav_cost 41,demand 286
+start_node 25,end_node 26,serv_cost 77,trav_cost 18,demand 59
+start_node 26,end_node 20,serv_cost 97,trav_cost 14,demand 83
+start_node 26,end_node 27,serv_cost 282,trav_cost 20,demand 262
+start_node 27,end_node 22,serv_cost 424,trav_cost 26,demand 398
+start_node 27,end_node 28,serv_cost 423,trav_cost 39,demand 384
+LIST_NOREQ_ARCS :
+start_node 14,end_node 2,serv_cost 0,trav_cost 34,demand 0
+start_node 14,end_node 7,serv_cost 0,trav_cost 22,demand 0
+start_node 3,end_node 2,serv_cost 0,trav_cost 19,demand 0
+start_node 3,end_node 4,serv_cost 0,trav_cost 20,demand 0
+start_node 3,end_node 1,serv_cost 0,trav_cost 41,demand 0
+start_node 5,end_node 6,serv_cost 0,trav_cost 21,demand 0
+start_node 5,end_node 10,serv_cost 0,trav_cost 20,demand 0
+start_node 6,end_node 5,serv_cost 0,trav_cost 21,demand 0
+start_node 8,end_node 2,serv_cost 0,trav_cost 20,demand 0
+start_node 8,end_node 7,serv_cost 0,trav_cost 42,demand 0
+start_node 10,end_node 9,serv_cost 0,trav_cost 21,demand 0
+start_node 10,end_node 11,serv_cost 0,trav_cost 18,demand 0
+start_node 10,end_node 16,serv_cost 0,trav_cost 21,demand 0
+start_node 11,end_node 6,serv_cost 0,trav_cost 19,demand 0
+start_node 13,end_node 8,serv_cost 0,trav_cost 23,demand 0
+start_node 13,end_node 1,serv_cost 0,trav_cost 19,demand 0
+start_node 13,end_node 19,serv_cost 0,trav_cost 18,demand 0
+start_node 1,end_node 15,serv_cost 0,trav_cost 14,demand 0
+start_node 1,end_node 20,serv_cost 0,trav_cost 19,demand 0
+start_node 15,end_node 9,serv_cost 0,trav_cost 18,demand 0
+start_node 15,end_node 1,serv_cost 0,trav_cost 14,demand 0
+start_node 15,end_node 16,serv_cost 0,trav_cost 21,demand 0
+start_node 15,end_node 20,serv_cost 0,trav_cost 27,demand 0
+start_node 17,end_node 22,serv_cost 0,trav_cost 26,demand 0
+start_node 18,end_node 12,serv_cost 0,trav_cost 22,demand 0
+start_node 20,end_node 15,serv_cost 0,trav_cost 27,demand 0
+start_node 20,end_node 19,serv_cost 0,trav_cost 19,demand 0
+start_node 20,end_node 25,serv_cost 0,trav_cost 24,demand 0
+start_node 21,end_node 15,serv_cost 0,trav_cost 18,demand 0
+start_node 21,end_node 22,serv_cost 0,trav_cost 20,demand 0
+start_node 22,end_node 17,serv_cost 0,trav_cost 26,demand 0
+start_node 23,end_node 17,serv_cost 0,trav_cost 15,demand 0
+start_node 23,end_node 22,serv_cost 0,trav_cost 21,demand 0
+start_node 23,end_node 28,serv_cost 0,trav_cost 19,demand 0
+start_node 24,end_node 18,serv_cost 0,trav_cost 21,demand 0
+start_node 25,end_node 19,serv_cost 0,trav_cost 18,demand 0
+start_node 25,end_node 20,serv_cost 0,trav_cost 24,demand 0
+start_node 26,end_node 25,serv_cost 0,trav_cost 18,demand 0
+start_node 27,end_node 21,serv_cost 0,trav_cost 17,demand 0
+start_node 27,end_node 26,serv_cost 0,trav_cost 20,demand 0
+start_node 28,end_node 23,serv_cost 0,trav_cost 19,demand 0
+start_node 28,end_node 27,serv_cost 0,trav_cost 39,demand 0
