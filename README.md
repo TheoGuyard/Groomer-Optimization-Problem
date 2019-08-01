@@ -10,9 +10,9 @@ Work done during a third year's internship at INSA Rennes in the <strong>Mathema
 
 **Packages requirements** : `JuMP`, `DataFrames`, `CPLEX`, `Dates`
 
-As CPLEX is used, you need to have it installed on the computer. The version `12.9` was used during the project. The code will not be maintained so it's possible that due to huge changes during `Julia`'s updates, the code crashes.
+As CPLEX is used, you need to have it installed on the computer. The version `12.9` was used during the project. The code will not be maintained so it's possible that due to huge changes during `Julia`'s updates, it crashes.
 
-**All the documentation about the problem, methods used and implementation details are presented in `report.pdf`.**
+**Problem specifications, methods used and implementation details are presented in `report.pdf`.**
 
 ## Datasets
 Datasets are separted in two groups : those with a unique depot and those with multiples depots. In each groups, there are different datasets availables. The structure of datasets is copied from the structure of [these](https://www.sciencedirect.com/science/article/pii/S2352340916304358 "Take a look !") datasets.
@@ -21,7 +21,7 @@ Datasets are separted in two groups : those with a unique depot and those with m
 - `stations` : Three stations modlised with graphs and declined in three different configurations
 - `mval-IF-3L` and `Lpr-IF` : Classical CARP datasets
 ##### Multiples depots
-Same datasets as those in `stations` but with an extra depot.
+Same datasets as these in `stations` but with an extra depot.
 
 ## Sources
 To solve a **GOP** problem on an instance, open `src/main.jl` and input dataset path and vehicle number. The program will automatically choose wich algorithm to use. In the case of multiples depots, it's possible to specify wether an optimal or an approximated solution is needed.
