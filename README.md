@@ -24,4 +24,4 @@ Datasets are separted in two groups : those with a unique depot and those with m
 Same datasets as those in `stations` but with an extra depot.
 
 ## Sources
-To solve a **GOP** problem, open `src/main.jl` and input dataset path and vehicle number. The program will automatically choose wich algorithm to use. In the case of multiples depots, it's possible to specify wether an optimal or an approximated solution is needed.
+To solve a **GOP** problem on an instance, open `src/main.jl` and input dataset path and vehicle number. The program will automatically choose wich algorithm to use. In the case of multiples depots, it's possible to specify wether an optimal or an approximated solution is needed.
