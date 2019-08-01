@@ -8,7 +8,7 @@ Work done during a third year's internship at INSA Rennes in the <strong>Mathema
 
 **Language** : `Julia 1.1`
 
-**Packages requirements** : `JuMP`, `DataFrames`, `CPLEX`, `Dates`
+**Packages required** : `JuMP`, `DataFrames`, `CPLEX`, `Dates`
 
 As CPLEX is used, you need to have it installed on the computer. The version `12.9` was used during the project. The code will not be maintained so it's possible that due to huge changes during `Julia`'s updates, it crashes.
 
