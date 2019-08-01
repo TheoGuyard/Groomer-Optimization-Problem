@@ -1,6 +1,6 @@
 include("solve_problem.jl")
 
-# Path of the file containing problem data
+# Path of the file containing the dataset
 file = "dataset/multi-depot/stations/ceuze-1.txt"
 # Number of vehicules available
 nb_vehicles = 3
