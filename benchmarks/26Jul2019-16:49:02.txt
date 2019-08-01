@@ -1,0 +1,210 @@
+File : mval-IF-3L-01A
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 20
+Non-equired edges : 0
+Required arcs : 35
+Non-required arcs : 0
+Vehicles : 4
+--------- 
+Algo : Single-depot
+Cost : 230.0
+Solving time : 1163 milliseconds
+===================================================== 
+File : mval-IF-3L-01B
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 13
+Non-equired edges : 0
+Required arcs : 38
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 261.0
+Solving time : 2583 milliseconds
+===================================================== 
+File : mval-IF-3L-02A
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 16
+Non-equired edges : 0
+Required arcs : 28
+Non-required arcs : 0
+Vehicles : 4
+--------- 
+Algo : Single-depot
+Cost : 324.0
+Solving time : 216 milliseconds
+===================================================== 
+File : mval-IF-3L-02B
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 12
+Non-equired edges : 0
+Required arcs : 40
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 395.0
+Solving time : 6634 milliseconds
+===================================================== 
+File : mval-IF-3L-03A
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 15
+Non-equired edges : 0
+Required arcs : 33
+Non-required arcs : 0
+Vehicles : 4
+--------- 
+Algo : Single-depot
+Cost : 115.0
+Solving time : 404 milliseconds
+===================================================== 
+File : mval-IF-3L-03B
+--------- 
+Nodes : 24
+Depot : [1]
+Required edges : 16
+Non-equired edges : 0
+Required arcs : 29
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 142.0
+Solving time : 3641 milliseconds
+===================================================== 
+File : mval-IF-3L-04A
+--------- 
+Nodes : 41
+Depot : [1]
+Required edges : 26
+Non-equired edges : 0
+Required arcs : 69
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 579.9999999999958
+Solving time : 3959 milliseconds
+===================================================== 
+File : mval-IF-3L-05A
+--------- 
+Nodes : 34
+Depot : [1]
+Required edges : 22
+Non-equired edges : 0
+Required arcs : 74
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 597.0
+Solving time : 13253 milliseconds
+===================================================== 
+File : mval-IF-3L-05C
+--------- 
+Nodes : 34
+Depot : [1]
+Required edges : 17
+Non-equired edges : 0
+Required arcs : 81
+Non-required arcs : 0
+Vehicles : 7
+--------- 
+Algo : Single-depot
+Cost : 697.0
+Solving time : 41649 milliseconds
+===================================================== 
+File : mval-IF-3L-06A
+--------- 
+Nodes : 31
+Depot : [1]
+Required edges : 22
+Non-equired edges : 0
+Required arcs : 47
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 326.0
+Solving time : 4234 milliseconds
+===================================================== 
+File : mval-IF-3L-06B
+--------- 
+Nodes : 31
+Depot : [1]
+Required edges : 22
+Non-equired edges : 0
+Required arcs : 44
+Non-required arcs : 0
+Vehicles : 6
+--------- 
+Algo : Single-depot
+Cost : 317.0
+Solving time : 17998 milliseconds
+===================================================== 
+File : mval-IF-3L-07B
+--------- 
+Nodes : 40
+Depot : [1]
+Required edges : 25
+Non-equired edges : 0
+Required arcs : 66
+Non-required arcs : 0
+Vehicles : 6
+--------- 
+Algo : Single-depot
+Cost : 412.0
+Solving time : 3708 milliseconds
+===================================================== 
+File : mval-IF-3L-08A
+--------- 
+Nodes : 30
+Depot : [1]
+Required edges : 20
+Non-equired edges : 0
+Required arcs : 76
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 581.0
+Solving time : 3551 milliseconds
+===================================================== 
+File : mval-IF-3L-08B
+--------- 
+Nodes : 30
+Depot : [1]
+Required edges : 27
+Non-equired edges : 0
+Required arcs : 64
+Non-required arcs : 0
+Vehicles : 6
+--------- 
+Algo : Single-depot
+Cost : 531.0
+Solving time : 18248 milliseconds
+===================================================== 
+File : mval-IF-3L-10A
+--------- 
+Nodes : 50
+Depot : [1]
+Required edges : 32
+Non-equired edges : 0
+Required arcs : 106
+Non-required arcs : 0
+Vehicles : 5
+--------- 
+Algo : Single-depot
+Cost : 634.0
+Solving time : 5754 milliseconds
+===================================================== 

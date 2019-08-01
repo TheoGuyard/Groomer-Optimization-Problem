@@ -1,0 +1,84 @@
+File : devoluy-1
+--------- 
+Nodes : 8
+Depot : [1, 8]
+Required edges : 12
+Non-equired edges : 0
+Required arcs : 0
+Non-required arcs : 0
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 61.5
+Solving time : 3866 milliseconds
+===================================================== 
+File : devoluy-2
+--------- 
+Nodes : 13
+Depot : [1, 13]
+Required edges : 10
+Non-equired edges : 11
+Required arcs : 0
+Non-required arcs : 0
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 61.0
+Solving time : 1449 milliseconds
+===================================================== 
+File : devoluy-3
+--------- 
+Nodes : 13
+Depot : [1, 13]
+Required edges : 21
+Non-equired edges : 0
+Required arcs : 0
+Non-required arcs : 0
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 118.5
+Solving time : 8095 milliseconds
+===================================================== 
+File : ceuze-1
+--------- 
+Nodes : 10
+Depot : [1, 9]
+Required edges : 9
+Non-equired edges : 0
+Required arcs : 4
+Non-required arcs : 0
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 61.5
+Solving time : 4427 milliseconds
+===================================================== 
+File : ceuze-2
+--------- 
+Nodes : 22
+Depot : [22, 9]
+Required edges : 17
+Non-equired edges : 9
+Required arcs : 5
+Non-required arcs : 2
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 113.99999999498809
+Solving time : 25359 milliseconds
+===================================================== 
+File : ceuze-3
+--------- 
+Nodes : 22
+Depot : [22, 9]
+Required edges : 26
+Non-equired edges : 0
+Required arcs : 7
+Non-required arcs : 0
+Vehicles : 2
+--------- 
+Algo : Multi-depot
+Cost : 176.49999994383333
+Solving time : 40712 milliseconds
+===================================================== 

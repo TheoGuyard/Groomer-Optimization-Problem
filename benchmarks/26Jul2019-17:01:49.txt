@@ -1,0 +1,70 @@
+File : Lpr-IF-a-01
+--------- 
+Nodes : 28
+Depot : [1]
+Required edges : 0
+Non-equired edges : 0
+Required arcs : 52
+Non-required arcs : 42
+Vehicles : 2
+--------- 
+Algo : Single-depot
+Cost : 12884.0
+Solving time : 8970 milliseconds
+===================================================== 
+File : Lpr-IF-a-02
+--------- 
+Nodes : 53
+Depot : [1]
+Required edges : 5
+Non-equired edges : 0
+Required arcs : 99
+Non-required arcs : 65
+Vehicles : 3
+--------- 
+Algo : Single-depot
+Cost : 27152.0
+Solving time : 1002 milliseconds
+===================================================== 
+File : Lpr-IF-b-01
+--------- 
+Nodes : 28
+Depot : [1]
+Required edges : 5
+Non-equired edges : 0
+Required arcs : 45
+Non-required arcs : 13
+Vehicles : 2
+--------- 
+Algo : Single-depot
+Cost : 14235.0
+Solving time : 17 milliseconds
+===================================================== 
+File : Lpr-IF-b-02
+--------- 
+Nodes : 53
+Depot : [1]
+Required edges : 9
+Non-equired edges : 0
+Required arcs : 92
+Non-required arcs : 16
+Vehicles : 3
+--------- 
+Algo : Single-depot
+Cost : 27820.0
+Solving time : 443 milliseconds
+===================================================== 
+File : Lpr-IF-c-01
+--------- 
+Nodes : 28
+Depot : [1]
+Required edges : 39
+Non-equired edges : 0
+Required arcs : 11
+Non-required arcs : 2
+Vehicles : 2
+--------- 
+Algo : Single-depot
+Cost : 18039.000000000007
+Solving time : 332 milliseconds
+===================================================== 
