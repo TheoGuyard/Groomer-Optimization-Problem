@@ -1,5 +1,5 @@
 # Groomer-Optimisation-Problem
-**Work done during a third year's internship at INSA Rennes.**
+## Work done during a third year's internship at INSA Rennes.
 
 **Language** : `Julia 1.1`
 
