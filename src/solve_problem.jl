@@ -18,12 +18,6 @@ function solve_problem(file, nb_vehicles, approx, verbose)
 
     println("-----------")
 
-    if (length(data[1, :depots])==1) & (approx==true)
-        error("Error : Use only the Branch-and-Price algorithm for a
-        multi-depot dataset.")
-        return(Nothing)
-    end
-
     print_info_dataset(data)
 
     println("-----------")
