@@ -1,7 +1,8 @@
 # Groomer-Optimisation-Problem
-Work done during a third year's internship at INSA Rennes in the **Mathematical departement**.
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1a/Insa-rennes-logo.svg)
+<p align="center">
+Work done during a third year's internship at INSA Rennes in the <strong>Mathematical departement</strong>.
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Insa-rennes-logo.svg">
+</p>
 
 ---
 
