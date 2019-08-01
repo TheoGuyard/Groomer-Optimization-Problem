@@ -9,7 +9,7 @@ function solve_problem(file, nb_vehicles, approx, verbose)
 
     print("\n\n")
     println("===========================================")
-    println("GROOMER TOUR OPTIMIZATION")
+    println("GROOMER OPTIMIZATION PROBLEM")
     println("-----------")
 
     println("Extracting data from file ...")
