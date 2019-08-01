@@ -1,5 +1,7 @@
 # Groomer-Optimisation-Problem
-Work done during a third year's internship at INSA Rennes.
+Work done during a third year's internship at INSA Rennes in the **Mathematical departement**.
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1a/Insa-rennes-logo.svg)
 
 ---
 
@@ -9,7 +11,6 @@ Work done during a third year's internship at INSA Rennes.
 
 As CPLEX is used, you need to have it installed on the computer. The version `12.9` was used during the project. The code will not be maintained so it's possible that due to huge changes during `Julia`'s updates, the code crashes.
 
-## Problem
 All the documentation about the problem, methods used and implementation details are presented in `rapport.pdf`.
 
 ## Datasets
