@@ -5,6 +5,8 @@ Work done during a third year's internship at INSA Rennes in the <strong>Mathema
 </p>
 
 ---
+**REPOSITORY IS NO LONGER MAINTAINED**
+---
 
 **Language** : `Julia 1.1`
 
